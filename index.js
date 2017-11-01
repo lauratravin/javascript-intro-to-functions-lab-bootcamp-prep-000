@@ -17,3 +17,9 @@ function logShout(string){
      console.log(string.toLowerCase());
 
   }
+
+  function sayHiToGrandma(){
+    
+    consolo.log(`I can't hear you!`)
+    
+  }
