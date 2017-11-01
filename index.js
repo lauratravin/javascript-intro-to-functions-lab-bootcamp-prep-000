@@ -23,10 +23,11 @@ function logShout(string){
     if ('hello' == string ){
        return ("I can't hear you!")
 
-    } else if {
+    } 
+    if {
       ('HELLO' == string ) {
          return ("YES INDEED!")
 
     }
 
-  }
+  
