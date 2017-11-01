@@ -22,7 +22,7 @@ function logShout(string){
 
     if isLowerCase(string){
        return ("I can't hear you!")
-      
+
     }
 
   }
