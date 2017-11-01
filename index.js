@@ -19,7 +19,7 @@ function logShout(string){
   }
 
   function sayHiToGrandma(string){
-     
+
     console.log('I can/'t hear you!')
 
   }
