@@ -18,8 +18,8 @@ function logShout(string){
 
   }
 
-  function sayHiToGrandma(){
-    
+  function sayHiToGrandma(string){
+
     consolo.log(`I can't hear you!`)
-    
+
   }
