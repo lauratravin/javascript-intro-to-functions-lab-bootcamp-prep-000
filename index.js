@@ -28,4 +28,8 @@ function logShout(string){
          return ("YES INDEED!")
 
     }
+    if  ('HELLO' == string ) {
+         return ("I love you, too.")
+
+    }
   }
